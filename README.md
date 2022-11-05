@@ -1,6 +1,6 @@
 # Flutter-Pakages-more
 
-## Eazy_localization (translation)
+### Eazy_localization (translation)
 
 https://pub.dev/packages/easy_localization
 
