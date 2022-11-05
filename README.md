@@ -13,8 +13,10 @@ https://github.com/gilmarsquinelato/i18n-manager/releases ====> i18n-Manager-Set
   ![image](https://user-images.githubusercontent.com/64936485/200117311-bf157242-5f42-484d-9fe4-18e1b7cdaa02.png)
 
   Then:  Ctrl + S
+  
   After added the words use this:
   
   -$ flutter pub run easy_localization:generate -S "assets/translations" -O "lib/translations"
+  
   -$ flutter pub run easy_localization:generate -S "assets/translations" -O "lib/translations" -o "local_keys.g.dart" -f keys
 
