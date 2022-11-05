@@ -3,6 +3,7 @@
 ## Eazy_localization (translation)
 https://github.com/gilmarsquinelato/i18n-manager/releases ====> i18n-Manager-Setup-<version>.exe
 
+  Open assets folder ==> translation
   ![image](https://user-images.githubusercontent.com/64936485/200117262-76634f8c-d90d-4a9c-a03a-18e3f83f0bdc.png)
 
   ![image](https://user-images.githubusercontent.com/64936485/200117279-aa464aaa-66f9-468c-b62a-7b7f93c2a1de.png)
