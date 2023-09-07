@@ -13,6 +13,7 @@ https://pub.dev/packages/easy_localization
 https://github.com/gilmarsquinelato/i18n-manager/releases ====> i18n-Manager-Setup-<version>.exe
 
   Open assets folder ==> translation
+  
   ![image](https://github.com/Ammar7077/Flutter-Pakages-more/assets/64936485/8b800781-f795-477a-9247-40a2fc13ef06)
   
   ![image](https://github.com/Ammar7077/Flutter-Pakages-more/assets/64936485/cccf02b1-116f-439a-ab04-4c23deecd182)
